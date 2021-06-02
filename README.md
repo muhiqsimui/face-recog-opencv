@@ -1,4 +1,5 @@
 # Face Detection using OpenCV
+inspired by kdrama startup , face recog by nam do san on episode 1
 
 ## How to use this
 
